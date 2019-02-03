@@ -1,0 +1,23 @@
+{
+  "name": "dropdown",
+  "version": "1.0.0",
+  "description": "\"RestFul Api for DropDown App\"",
+  "main": "indes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apidoc": "^0.17.7",
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.4",
+    "moment": "^2.22.2",
+    "mongoose": "^5.3.16",
+    "morgan": "^1.9.1",
+    "pino": "^5.10.1",
+    "request": "^2.88.0",
+    "shortid": "^2.2.14"
+  }
+}
